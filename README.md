@@ -1,4 +1,4 @@
-Decision Trees on the PAMAK2 Dataset to distinguish different activities
+Decision Trees on the PAMAP2 Dataset to distinguish different activities
 
 The Dataset is available in https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
 
